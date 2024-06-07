@@ -4,7 +4,7 @@ Welcome to my portfolio! I'm passionate about creating projects, and here's a gl
 
 ## Projects
 
-![Prototyping]](Protyping.jpg)
+![Prototyping](Protyping.jpg)
 
 [Twine](Q4Balance.html)
 
